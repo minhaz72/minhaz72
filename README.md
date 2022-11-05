@@ -10,8 +10,7 @@ Skills: PYTHON | DART / HTML / CSS
 - 🌱 I’m currently learning python data Visualization  
 - 👯 I’m looking to collaborate on Github  
 - 💬 Ask me about python | Dart  
-- ⚡ Fun fact: Python is not Name of Snack , It was a Dutch Music Band liked by python founder  
-
+- ⚡ Fun fact: Python is not Name of Snack , It was  name of a TV show 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/minhaz72)  
 
