@@ -1,12 +1,16 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋,  My Name is Minhazur Rahman 
+#### Python Developer | web -  designer
+![Python Developer | web -  designer](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Get Fun From Learn | A developer and A Learner 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PYTHON | DART / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on python  
+- 🌱 I’m currently learning python data Visualization  
+- 👯 I’m looking to collaborate on Github  
+- 💬 Ask me about python | Dart  
+- ⚡ Fun fact: Python is not Name of Snack , It was a Dutch Music Band liked by python founder  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/minhaz72)  
