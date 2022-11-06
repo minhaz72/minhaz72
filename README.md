@@ -1,6 +1,7 @@
 ### Hi there 👋,  My Name is Minhazur Rahman 
 #### Python Developer | web -  designer
-![Python Developer | web -  designer](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)
+[![Python Developer | web -  designer](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)
+](https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif)
 
 Get Fun From Learn | A developer and A Learner 
 
